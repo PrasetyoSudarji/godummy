@@ -1,0 +1,2 @@
+# godummy
+Learning Go
